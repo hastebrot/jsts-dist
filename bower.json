@@ -1,0 +1,9 @@
+{
+  "name": "jsts",
+  "version": "0.15.0",
+  "main": [
+    "dist/javascript.util.js",
+    "dist/jsts.js"
+  ],
+  "ignore": []
+}
